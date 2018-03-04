@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/droidconvn/sitemap.xml
+Sitemap: https://droidconvn.github.io/sitemap.xml
