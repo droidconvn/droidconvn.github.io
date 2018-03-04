@@ -1,0 +1,20 @@
+{
+  "short_name": "DevFest14",
+  "name": "Droidcon Vietnam 2018",
+  "icons": [
+    {
+      "src": "/img/favicons/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "density": "2.0"
+    },
+    {
+      "src": "/img/favicons/apple-touch-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": "3.0"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "/index.html"
+}
